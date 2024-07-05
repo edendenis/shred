@@ -15,7 +15,7 @@
 # 
 # ### `shred`
 # 
-# O comando `shred` é uma ferramenta de linha de comando encontrada em sistemas Unix-like, incluindo `Linux`, que é projetada para a remoção segura de arquivos e dados em discos rígidos e outros dispositivos de armazenamento. O `shred` substitui o conteúdo dos arquivos com dados aleatórios, tornando muito difícil ou praticamente impossível a recuperação dos dados originais. Essa técnica é especialmente útil quando se deseja garantir que informações confidenciais não possam ser recuperadas por meio de métodos de recuperação de dados convencionais. O `shred` permite que os usuários definam o número de vezes que os dados são sobrescritos e pode ser usado com uma variedade de opções para personalizar o processo de destruição segura de dados, tornando-o uma ferramenta valiosa para a proteção da privacidade e segurança de dados sensíveis.
+# O comando `shred` é uma ferramenta de linha de comando encontrada em sistemas `Unix-like`, incluindo `Linux`, que é projetada para a remoção segura de arquivos e dados em discos rígidos e outros dispositivos de armazenamento. O `shred` substitui o conteúdo dos arquivos com dados aleatórios, tornando muito difícil ou praticamente impossível a recuperação dos dados originais. Essa técnica é especialmente útil quando se deseja garantir que informações confidenciais não possam ser recuperadas por meio de métodos de recuperação de dados convencionais. O `shred` permite que os usuários definam o número de vezes que os dados são sobrescritos e pode ser usado com uma variedade de opções para personalizar o processo de destruição segura de dados, tornando-o uma ferramenta valiosa para a proteção da privacidade e segurança de dados sensíveis.
 
 # ## 1. Como configurar/instalar o `shred`no `Linux Ubuntu` [1][3]
 # 
@@ -56,7 +56,7 @@
 # 
 # Se você ainda preferir usar o `HDShredder` no Linux, uma opção seria usar uma máquina virtual com Windows ou criar um boot dual para poder executá-lo em um ambiente Windows.
 
-# ### 1.1 Código completo para configurar/instalar
+# ### 1.1 Código completo para configurar/instalar/usar
 # 
 # Para configurar/instalar/usar para limpar o histórico dos navegadores no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 # 
